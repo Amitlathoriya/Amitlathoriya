@@ -1,11 +1,15 @@
 # 👋 Welcome to My GitHub Profile!
 
 <div align="center">
-  <img src="assets/git_name.gif" alt="Git Name Animation" width="400"/>
+  <div style="width: 400px; height: 280px; overflow: hidden; position: relative;">
+    <img src="./assets/git_name.gif" alt="Git Name Animation" style="width: 400px; margin-top: -30%; object-fit: cover;"/>
+  </div>
 </div>
 
 ## 🚀 About Me
-I'm a passionate developer who loves creating amazing projects and contributing to the open-source community.
+<div align="center">
+  <img src="./assets/git_back.gif" alt="Git Background Animation" width="300"/>
+</div>
 
 ## 🎯 What I Do
 - **Full-Stack Development** - Building robust web applications
@@ -22,9 +26,7 @@ I'm a passionate developer who loves creating amazing projects and contributing 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="assets/git_back.gif" alt="Git Background Animation" width="300"/>
-</div>
+
 
 ## 🌟 Featured Projects
 - **[Project 1]** - Description of your amazing project
