@@ -1,42 +1,34 @@
-# 👋 Hi, Guys !
+<h1 align="center">👋 Hey, I'm Amit</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=39FF14&center=true&vCenter=true&width=500&lines=Cyber+Security+Student;Bug+Bounty+Hunter;Always+Learning;Exploring+New+Tech" />
+</p>
 
-<div align="center">
-  <div style="width: 400px; height: 280px; overflow: hidden; position: relative;">
-    <img src="./assets/name_git.gif" alt="Git Name Animation" style="width: 400px; margin-top: -30%; object-fit: cover;"/>
-  </div>
-</div>
+---
 
-## 🚀 About Me
-<div align="center">
-  <img src="./assets/git_back.gif" alt="Git Background Animation" width="300"/>
-</div>
+<p align="center">
+  I’m just getting started here — exploring tools, learning steadily,  
+  and building up my workflow one commit at a time.
+</p>
 
-## 🎯 What I Do
-- **Full-Stack Development** - Building robust web applications
-- **Open Source** - Contributing to meaningful projects
-- **Problem Solving** - Turning complex challenges into elegant solutions
-- **Continuous Learning** - Always exploring new technologies and best practices
+---
 
-## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+## 🚀 What I'm Doing
+- Learning cyber security fundamentals  
+- Breaking things to understand how they work  
+- Testing workflows, scripts, and tools  
+- Slowly building my GitHub presence  
 
+---
 
-## 🌟 Featured Projects
-- **[Project 1]** - Description of your amazing project
-- **[Project 2]** - Another cool project you've built
-- **[Project 3]** - Something innovative you created
+## 🧩 Fun Note
+> I don’t know everything — I’m just here learning, experimenting,  
+> and showing up consistently.
 
-## 📫 Get In Touch
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-- **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
+---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile Views"/>
-  
-  ⭐ Star this repository if you found it helpful!
-</div>
+## 📫 Reach Me
+- Email : amitkumarlathoriya@gmail.com
+
+---
+
+<p align="center">✨ More updates coming soon… stay tuned! ✨</p>
